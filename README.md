@@ -1,2 +1,2 @@
 # personal-lists
-Personal domain lists for selective routing by VirgoMan
+Personal domain lists by VirgoMan
