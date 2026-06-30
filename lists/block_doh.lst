@@ -1,10 +1,6 @@
 cloudflare-dns.com
-security.cloudflare-dns.com
-family.cloudflare-dns.com
 one.one.one.one
-1dot1dot1dot1.cloudflare-dns.com
 dns.google
-dns64.dns.google
 dns.quad9.net
 dns9.quad9.net
 dns10.quad9.net
@@ -13,7 +9,6 @@ dns.adguard-dns.com
 unfiltered.adguard-dns.com
 family.adguard-dns.com
 dns.nextdns.io
-anycast.dns.nextdns.io
 doh.opendns.com
 doh.familyshield.opendns.com
 doh.cleanbrowsing.org
@@ -23,13 +18,7 @@ security-filter-dns.cleanbrowsing.org
 dns.controld.com
 freedns.controld.com
 dns.mullvad.net
-base.dns.mullvad.net
-adblock.dns.mullvad.net
-all.dns.mullvad.net
-extended.dns.mullvad.net
-family.dns.mullvad.net
 dns.sb
-doh.dns.sb
 doh.libredns.gr
 doh.blahdns.com
 dnsforge.de
