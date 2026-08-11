@@ -38,6 +38,10 @@ us-nyc-dns-601.mullvad.net
 dns.sb
 doh.libredns.gr
 doh.blahdns.com
+doh-sg.blahdns.com
+doh-de.blahdns.com
+dot-sg.blahdns.com
+dot-de.blahdns.com
 dnsforge.de
 doh.pub
 dot.pub
